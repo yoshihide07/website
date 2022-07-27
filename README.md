@@ -1,2 +1,2 @@
 # website
-Website made with svelte and css
+Website made with svelte and css. My portfolio ;p

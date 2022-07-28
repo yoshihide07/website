@@ -9,8 +9,10 @@ Install node.js and required dependencies
 #instalation of node.js
 cd ~ # home directory in linux based systems
 curl -sL https://deb.nodesource.com/setup_18.x -o /tmp/nodesource_setup.sh # sudo apt install curl (on ubuntu... for other package manager see your docs of your distro)
+# then follow instructions  displayed on screen
 -------------------
-#Instaling required dependencies 
+#Instaling required dependencies
+# npm is installed with node.js 
 sudo npm install -g vite # ( it's require root priviliges )
 git clone https://github.com/yoshihide07/website.git
 cd website

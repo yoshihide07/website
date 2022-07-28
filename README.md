@@ -1,12 +1,13 @@
 # website
 Website made with svelte and css. My portfolio ;p
-<br> look at src file</br>
+<br> Enjoy my work ;p</br>
 # How to deploy it
 <br> Clone this repo</br>
 Install node.js and required dependencies 
 ```bash
 # Linux
 #instalation of node.js
+# open terminal and type:
 cd ~ # home directory in linux based systems
 curl -sL https://deb.nodesource.com/setup_18.x -o /tmp/nodesource_setup.sh # sudo apt install curl (on ubuntu... for other package manager see your docs of your distro)
 # then follow instructions  displayed on screen

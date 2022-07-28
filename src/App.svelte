@@ -10,6 +10,7 @@
           <img class="logo" src="./src/.icons/yoshihide_logo.svg"  alt="Just mine logo XDD"  />
    
           <div id="menubar" class="menu">
+              <a href="https://yoshihide07.github.io/">Home</a>
                 <a href="https://yoshihide07.github.io/blog">Weblog</a>
                 <a href="https://github.com/yoshihide07">Github</a>
                 <a href="https://discord.com/invite/9hrT435cRY">Discord</a>

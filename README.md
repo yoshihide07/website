@@ -14,10 +14,11 @@ curl -sL https://deb.nodesource.com/setup_18.x -o /tmp/nodesource_setup.sh # sud
 #Instaling required dependencies
 # npm is installed with node.js 
 sudo npm install -g vite # ( it's require root priviliges )
-git clone https://github.com/yoshihide07/website.git
+git clone https://github.com/yoshihide07/website.git # ( or just download it from github XD and unzip  it with your desktop apps ...) 
 cd website
 npm install && npm run dev #( development version with auto reloading after commiting a change in files)
-#open your browser and at search bar type http://localhost:5137 and website should appear
+# open your browser and at search bar type http://localhost:5137 and website should appear
+# Open vscode and install svelte extension and modify this app  as your wish ;p
 ```
 
 ```cmd

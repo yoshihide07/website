@@ -19,7 +19,7 @@ git clone https://github.com/yoshihide07/website.git # ( or just download it fro
 cd website
 npm install && npm run dev #( development version with auto reloading after commiting a change in files)
 # open your browser and at search bar type http://localhost:5137 and website should appear
-# Open vscode and install svelte extension and modify this app  as your wish ;p
+# Open vscode and install svelte extension and modify my project  as your wish ;p
 ```
 
 ```cmd
